@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/vrzindev?label=Follow&style=social" alt="GitHub Followers">
 </p>
 
 ## 🚀 Sobre Mim
