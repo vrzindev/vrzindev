@@ -1,7 +1,7 @@
-<h1 align="center">Olá, meu nome é [Vitor] 👋</h1>
+<h1 align="center">Olá, meu nome é Vitor 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vrzindev&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/vrzindev?label=Follow&style=social" alt="GitHub Followers">
 </p>
 
@@ -34,9 +34,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
 
 ## 🌎 Onde me encontrar?
 📩 **E-mail:** vitordesenvol@gmail.com 
