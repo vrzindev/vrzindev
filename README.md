@@ -7,9 +7,9 @@
 
 ## 🚀 Sobre Mim
 
-🎯 Desenvolvedor Iniciante Full Stack apaixonado por tecnologia e inovação. Sempre buscando aprimorar minhas habilidades e desenvolver soluções eficientes. 
+🎯 Desenvolvedor Full Stack em busca da primeira experiência profissional na área. Apaixonado por tecnologia e inovação, estou sempre aprimorando minhas habilidades para criar soluções eficientes.
 
-📍 Focado em criar aplicações modernas utilizando tecnologias robustas.
+📍  Focado em desenvolver aplicações modernas com tecnologias robustas e escaláveis. Aberto a oportunidades para contribuir e aprender em um ambiente profissional.
 
 ## 🛠️ Tecnologias e Ferramentas
 
