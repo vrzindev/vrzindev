@@ -37,4 +37,4 @@
 
 ## 🌎 Onde me encontrar?
 📩 **E-mail:** vitordesenvol@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](www.linkedin.com/in/vitor-ramos-5204a5269)
+💼 **LinkedIn:** www.linkedin.com/in/vitor-ramos-5204a5269
