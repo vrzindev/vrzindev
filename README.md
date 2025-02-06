@@ -35,6 +35,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Linguagens
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdacosta&layout=compact)](https://github.com/thomasdacosta?tab=repositories)
+
 ## 🌎 Onde me encontrar?
 📩 **E-mail:** vitordesenvol@gmail.com 
 💼 **LinkedIn:** www.linkedin.com/in/vitor-ramos-5204a5269
