@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Linguagens
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdacosta&layout=compact)](https://github.com/vrzindev?tab=repositories)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vrzindev&layout=compact)](https://github.com/vrzindev?tab=repositories)
 
 ## 🌎 Onde me encontrar?
 📩 **E-mail:** vitordesenvol@gmail.com 
